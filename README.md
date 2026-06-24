@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="public/logo.svg" alt="Prepora Logo" width="80" />
-
 # Prepora
 
 ### AI Interview Marketplace — Practice. Improve. Get Hired.
