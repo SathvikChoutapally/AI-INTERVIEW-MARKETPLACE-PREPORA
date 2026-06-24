@@ -13,7 +13,7 @@
 [![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)](https://supabase.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE)
 
-[Live Demo](#) · [Report Bug](https://github.com/SathvikChoutapally/AI-INTERVIEW-MARKETPLACE-PREPORA/issues) · [Request Feature](https://github.com/SathvikChoutapally/AI-INTERVIEW-MARKETPLACE-PREPORA/issues)
+[Live Demo](https://ai-interview-marketplace-prepora.vercel.app) · [Report Bug](https://github.com/SathvikChoutapally/AI-INTERVIEW-MARKETPLACE-PREPORA/issues) · [Request Feature](https://github.com/SathvikChoutapally/AI-INTERVIEW-MARKETPLACE-PREPORA/issues)
 
 </div>
 
